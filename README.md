@@ -1,9 +1,7 @@
 
 # Miguel Ortiz! 👋
 
-
-
-## 🚀 Sobre Mi
+### 🚀 Sobre Mi
 - Frontend Developer
 - Tengo 21 años
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
