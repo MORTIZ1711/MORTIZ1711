@@ -4,7 +4,7 @@
 
 
 ## 🚀 Sobre Mi
-- Frontend developer
+- Frontend Developer
 - Tengo 21 años
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
