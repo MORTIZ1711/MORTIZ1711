@@ -1,5 +1,5 @@
 
-# Miguel Ortiz! 👋
+<h1>Miguel Ortiz! 👋</h1>
 
 ### 🚀 Sobre Mi
 - Frontend Developer
